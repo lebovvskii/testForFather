@@ -1,0 +1,45 @@
+/* Time to style that page*/
+
+
+body{
+    scrollbar-width: auto;
+    background-color: rgb(240, 239, 239);
+}
+
+h1 {
+    line-height: normal;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: "Open Sans";
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Open Sans";
+}
+
+.flex-container1 {
+    display: flex;
+    padding: 80px 80px;
+    justify-content: center;
+}
+
+.flex-container2 {
+    display: flex;
+    padding: 80px 80px;
+    justify-content: center;
+}
+
+.boxmodel {
+    margin-inline: 5px;
+    padding: 80px 80px;
+    background-color: rgb(255, 255, 255) ;
+    border-color: rgb(255, 255, 255);
+    /* box-shadow: 2px 2px rgb(159, 158, 158); */
+}
+
+p {
+    text-align: center;
+}
+
